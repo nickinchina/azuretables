@@ -2,7 +2,7 @@
   "name": "sails-azuretables",
   "version": "0.0.9",
   "description": "Azure table adapter for waterline",
-  "main": "index.js",
+   "main": "lib/adapter.js",
   "author": "Azuqua <alec@azuqua.com>",
   "scripts": {
     "test": "make test"
@@ -12,12 +12,7 @@
     "url": "https://github.com/nickinchina/sails-azuretables.git"
   },
   "keywords": [
-    "azure",
-    "orm",
-    "waterline",
-    "sails",
-    "sailsjs",
-    "sails.js"
+    "azure"
   ],
   "license": "MIT",
   "devDependencies": {
