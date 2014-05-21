@@ -7,13 +7,6 @@
   "scripts": {
     "test": "make test"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/nickinchina/azuretables.git"
-  },
-  "keywords": [
-    "azure"
-  ],
   "license": "MIT",
   "devDependencies": {
     "mocha": "~1.12.0",
