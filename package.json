@@ -1,6 +1,6 @@
 {
   "name": "sails-azuretables",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "Azure table adapter for waterline",
    "main": "lib/adapter.js",
   "author": "Azuqua <alec@azuqua.com>",
