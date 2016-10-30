@@ -15,7 +15,7 @@
   "dependencies": {
     "azure": "*",
     "async": "~0.2.9",
-    "underscore": "*",
-    "generic-pool": "*"
+    "underscore": "1.8.3",
+    "generic-pool": "2.2.0"
   }
 }
